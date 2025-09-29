@@ -1,3 +1,4 @@
 printf("name?");
+name..
 printf("age?");
-printf("number?");
+printf("?");
