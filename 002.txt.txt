@@ -1,5 +1,2 @@
-printf("name?");
-printf("age?");
-printf("number?");
+printf("Hello");
 
-my name is ... ,20 years old and 25.

@@ -1,4 +1,1 @@
-scanf("name");
-abcd
-
-name.. 
+printf("Hello");

@@ -1,4 +1,2 @@
-printf("My name is .... ");
-printf("Hi");
-printf("name?");
-hi, my name is ...
+printf(" my name is ... ");
+
