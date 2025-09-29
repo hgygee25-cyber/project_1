@@ -1,4 +1,2 @@
-printf("name?");
-name..
-printf("age?");
-printf("?");
+printf("Hello");
+
