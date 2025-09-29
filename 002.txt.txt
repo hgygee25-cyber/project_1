@@ -1,3 +1,5 @@
 printf("name?");
 printf("age?");
 printf("number?");
+
+my name is ... ,20 years old and 25.

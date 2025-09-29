@@ -1,3 +1,4 @@
 scanf("name");
 abcd
-aaaaaaaaaaaa
+
+name.. 
